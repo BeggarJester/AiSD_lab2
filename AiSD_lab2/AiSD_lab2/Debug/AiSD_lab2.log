@@ -1,0 +1,8 @@
+﻿  AiSD_lab2_main.cpp
+C:\Users\Raccoon\source\repos\AiSD_lab2\AiSD_lab2\AiSD_lab2_main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Raccoon\source\repos\AiSD_lab2\AiSD_lab2\AiSD_lab2_main.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Raccoon\source\repos\AiSD_lab2\AiSD_lab2\AiSD_lab2_main.cpp(117,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Raccoon\source\repos\AiSD_lab2\AiSD_lab2\AiSD_lab2_main.cpp(122,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Raccoon\source\repos\AiSD_lab2\AiSD_lab2\AiSD_lab2_main.cpp(139,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Raccoon\source\repos\AiSD_lab2\AiSD_lab2\AiSD_lab2_main.cpp(144,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AiSD_lab2.vcxproj -> C:\Users\Raccoon\source\repos\AiSD_lab2\Debug\AiSD_lab2.exe
